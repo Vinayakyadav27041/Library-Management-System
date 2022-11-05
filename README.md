@@ -8,6 +8,12 @@ pip install tkinter
 pip install mysql-connector-python
 
 
+
+Download and Install MySql from https://dev.mysql.com/downloads/installer/
+
+Password:- 1234
+
+
 create database db;
  
 use db;
